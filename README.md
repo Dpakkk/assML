@@ -1,2 +1,2 @@
 # assML
- Academia File for University of New Haven(ML Subject)
+ Academia File for UNH(ML Subject)
